@@ -1,0 +1,177 @@
+@charset "utf-8";
+-webkit-input[type="text"] {
+    text-align: center;
+}
+
+.color-art {
+    border-color: #c40444;
+    color: #c40444;
+}
+
+.color-art:hover {
+    border-color: #c40444;
+    color: white;
+}
+
+.cabecera {
+    border-bottom: 2px solid #c40444;
+    -webkit-box-shadow: 1px 10px 2px -7px rgba(196, 4, 68, 1);
+    -moz-box-shadow: 1px 10px 2px -7px rgba(196, 4, 68, 1);
+    box-shadow: 1px 10px 2px -7px rgba(196, 4, 68, 1);
+}
+
+.submitbtn {
+    width: 100%;
+    padding-top: 40px;
+}
+
+.submitbutton {
+    width: 100%;
+    font-size: 100%vw;
+    background-color: #c40444;
+    border-color: #c40444;
+}
+
+.logoPrincipal{
+    margin-top: 1em;
+    margin-left: 1em;
+    width: 26em;
+    height: 8em;
+}
+
+.logo3 {
+    width: 20em;
+    height: 6em;
+}
+
+.btn-danger {
+    background-color: #c40444;
+    border: #c40444;
+}
+
+.fa {
+    margin-right: 0.5em;
+}
+
+
+/* comienzo contenido central*/
+
+.loginarea {
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+#logo2 {
+    width: 60%;
+    padding-left: 6em;
+}
+
+
+
+#bagregar {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+    background-color: #c40444 !important;
+    border: solid #c40444 !important;
+}
+
+#bagregar2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+    background-color: #c40444 !important;
+    border: solid #c40444 !important;
+}
+
+#bagregar3 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+    background-color: #c40444 !important;
+    border: solid #c40444 !important;
+}
+
+#fabrica {
+    text-align: center;
+    /*border: 2px solid blue;*/
+    padding-bottom: 20px;
+}
+
+#promo {
+    text-align: center;
+    
+}
+
+#coders {
+    text-align: center;
+    
+}
+
+#enviar {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+    background-color: #c40444 !important;
+    border: solid #c40444 !important;
+}
+
+#tablafabrica {
+    width: 100%;
+    text-align: center;
+}
+
+#tablapromo {
+    text-align: center;
+}
+
+#tablacoders {
+    text-align: center;
+}
+
+.tituloTabla {
+    background-color: #c40444 !important;
+}
+
+#enviarp {
+    margin-top: 20px;
+    width: 100%;
+}
+
+#enviarc {
+    margin-top: 20px;
+    width: 100%;
+}
+
+
+/* fin contenido central*/
+
+
+/* contenido externo*/
+
+.modificarPromo {
+    text-align: center;
+}
+
+.modificarCoder {
+    text-align: center;
+}
+
+span {
+    color: red;
+}
+
+.mod {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-fluid{
+    max-width: 100%;
+    height: auto;
+}
+
+.slider{
+    width: 800px;
+    height: 500px;
+}
